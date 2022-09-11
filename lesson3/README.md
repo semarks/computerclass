@@ -10,11 +10,12 @@ This is an important command thingy: git push -u origin main
 That pushes everything that's new to github.
 
 ## Test answers
-git add -A
-git status
-git commit -m "initial commit"
-git status
-        It should say that there is nothing to commit, working tree clean
-git push -u origin main
 
-Then you are done!
+### git add -A
+### git status
+### git commit -m "initial commit"
+### git status
+It should say that there is nothing to commit, working tree clean
+### git push -u origin main
+
+### Then you are done!
