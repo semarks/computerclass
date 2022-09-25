@@ -4,3 +4,4 @@ Software: Operating system, text editor, file browser.
 Graphical User Interface
 Terminal: 'ls' lists everything in the file thing. 'cd(meaning change directory) documents' takes you into documents, 'pwd' print working directory.
 To make a directory from the terminal, type mkdir -v (type name of what you want the directory to be called.) The verbose thing tells you it made it. It still works if you don't type -v.
+cd .. changes a directory upwardsly
